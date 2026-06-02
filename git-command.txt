@@ -1,0 +1,5 @@
+git init
+git status
+git rm --chached
+git add -m ""
+git restore 
