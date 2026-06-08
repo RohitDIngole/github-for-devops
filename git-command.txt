@@ -7,3 +7,5 @@ git remote add origin https://
 git remote -V
 git branch -M main
 git push -u origin main.
+git log
+git log --oneline
